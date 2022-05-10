@@ -13,5 +13,4 @@ success if the latest status for all contexts is success--
 
 curl \
   -H "Accept: application/vnd.github.v3+json" \
-  https://api.github.com/repos/OWNER/REPO/commits/REF/status
 https://api.github.com/repos/DronalBhardwaj/hello-world/commits/REF/status/3b76783f0c4957edf67afffc65251dde7f7296e
